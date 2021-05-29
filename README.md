@@ -1,1 +1,2 @@
 # wise-ML-project
+# SocialDistanceDetector
